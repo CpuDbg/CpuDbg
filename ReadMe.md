@@ -19,4 +19,8 @@ After this setting, the program will not be interrupted in 64-bit ntdll, but int
 
 ![image](https://github.com/CpuDbg/CpuDbg/assets/134661959/62d5f48a-0207-43cb-b6b5-1011166dd25c)
 
+------------------------------------------------------------------------------------------------------------------
+Currently CpuDbg is not perfect, she still has a lot of bugs. Please give her some time, let her grow slowly... 😉
+
 to be continued...
+
