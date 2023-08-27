@@ -19,6 +19,15 @@ After this setting, the program will not be interrupted in 64-bit ntdll, but int
 
 ![image](https://github.com/CpuDbg/CpuDbg/assets/134661959/62d5f48a-0207-43cb-b6b5-1011166dd25c)
 
+
+------------------download------------------
+https://github.com/CpuDbg/CpuDbg/releases
+
+如果你不会魔法, 可以从下列地址下载:
+链接:https://pan.baidu.com/s/1CLMAceVhgClZrfA6GR8hrw?pwd=cpuu 提取码:cpuu 复制这段内容后打开百度网盘手机App，操作更方便哦
+------------------download------------------
+
+
 ------------------------------------------------------------------------------------------------------------------
 Currently CpuDbg is not perfect, she still has a lot of bugs. Please give her some time, let her grow slowly... 😉
 
