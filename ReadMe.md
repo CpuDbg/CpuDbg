@@ -1,6 +1,6 @@
-*test1
-*test2
-*test3
+* test1
+* test2
+* test3
 
 * 编程语言  
     * 脚本语言  
