@@ -17,7 +17,8 @@ As shown in the figure above, you will find that the debugger breaks in 64-bit n
 
 After this setting, the program will not be interrupted in 64-bit ntdll, but interrupted in 32-bit oep. As shown below:
 
-![image](https://github.com/CpuDbg/CpuDbg/assets/134661959/62d5f48a-0207-43cb-b6b5-1011166dd25c)
+![image](https://github.com/CpuDbg/CpuDbg/assets/134661959/cdc4d578-c84d-40be-b221-be21efbcf305)
+
 
 
 ------------------download------------------
