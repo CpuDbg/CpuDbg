@@ -7,6 +7,11 @@
 
 ### Some notes about debuggers.
 
+If you want to switch languages, you can do so through the menu settings below. (Currently, only Chinese and English are supported)
+
+![switch_lan](https://github.com/CpuDbg/CpuDbg/assets/134661959/4bb6bad3-6f2e-40e8-a807-4a679a351600)
+
+
 If you are a Windows x64 system, you are debugging a 32-bit program. When you drag the target program into the debugger window, or press F3 to open the target program, the program will break at the place as shown below:
 
 ![image](https://github.com/CpuDbg/CpuDbg/assets/134661959/a6413601-a444-4743-84e8-7814ae63b104)
