@@ -1,6 +1,6 @@
 ## CpuDbg is currently a closed-source project, and this repository is solely for bug reporting.
 
-#### CpuDbg is a debugger that supports all platforms, including but not limited to PC Android Iphone as well as WEB and hardware platforms.
+#### CpuDbg is a debugger that supports all platforms, including but not limited to Windows Android Iphone as well as WEB and hardware platforms.
 #### The interface and functions of CpuDbg are referenced to OllyDbg. Special thanks to Mr. Oleh Yuschuk, the author of OllyDbg, for writing such an excellent debugger for us. If there is no OllyDbg debugger, there will be no CpuDbg debugger.
 
 #### CpuDbg currently only supports running on the Windows platform. It may consider supporting other platforms in the future. The project of CpuDbg is very, very large, and currently only supports debugging Windows 32-bit and 64-bit programs. (16-bit is not supported temporarily).
