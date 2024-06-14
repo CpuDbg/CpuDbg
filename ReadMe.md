@@ -8,6 +8,7 @@
 ### Some notes about debuggers.
 
 If you want to switch languages, you can do so through the menu settings below. (Currently, only Chinese and English are supported)
+如果您想要切换语言, 可以通过下面菜单设置. (目前只支持中文和英文)
 
 ![switch_lan](https://github.com/CpuDbg/CpuDbg/assets/134661959/4bb6bad3-6f2e-40e8-a807-4a679a351600)
 
