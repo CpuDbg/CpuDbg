@@ -18,7 +18,7 @@ If you are a Windows x64 system, you are debugging a 32-bit program. When you dr
 
 ![image](https://github.com/CpuDbg/CpuDbg/assets/134661959/a6413601-a444-4743-84e8-7814ae63b104)
 
-As shown in the figure above, you will find that the debugger breaks in 64-bit ntdll. This is because when a 64-bit debugger is debugging a 32-bit program, it will by default pass through the WOW64 interrupt information. You can set it in the (Alt+O) debug option, as shown below:
+As shown in the figure above, you will find that the debugger breaks in 64-bit ntdll. This is because when a 64-bit debugger is debugging a 32-bit program, it will by default receive WOW64 interrupts. You can set it in the (Alt+O) debug option, as shown below:
 
 ![image](https://github.com/CpuDbg/CpuDbg/assets/134661959/60a4c19b-61e3-4ba5-8f85-ccf1bd9fb255)
 
