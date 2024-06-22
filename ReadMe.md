@@ -5,6 +5,8 @@
 
 #### CpuDbg currently only supports running on the Windows platform. It may consider supporting other platforms in the future. The project of CpuDbg is very, very large, and currently only supports debugging Windows 32-bit and 64-bit programs. (16-bit is not supported temporarily).
 
+----------------------------------------------
+
 ### Some notes about debuggers.
 
 If you want to switch languages, you can do so through the menu settings below. (Currently, only Chinese and English are supported)
@@ -13,6 +15,9 @@ If you want to switch languages, you can do so through the menu settings below. 
 
 ![switch_lan](https://github.com/CpuDbg/CpuDbg/assets/134661959/4bb6bad3-6f2e-40e8-a807-4a679a351600)
 
+Cpudbg itself has two BIN resources, both of which are 7z compressed packages included with it. IDR_7Z_DLL extracts to vm.dll and IDR_7Z_EXE extracts to vm.exe. Their function is to handle compression or decompression.
+
+![image](https://github.com/CpuDbg/CpuDbg/assets/134661959/f7f600ab-c54b-45b8-8d9b-dead3a23e72b)
 
 If you are a Windows x64 system, you are debugging a 32-bit program. When you drag the target program into the debugger window, or press F3 to open the target program, the program will break at the place as shown below:
 
